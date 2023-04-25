@@ -4,8 +4,7 @@ List of all the tools I use in my daily workflow.
 
 ### Development
 
-- **PHPStorm**
-
+- **PHPStorm:**
   The editor actually 'gets' your code and deeply understands its structure, supporting all the PHP language features
   for modern and legacy projects. It provides the best code completion, refactorings, on-the-fly error prevention, and
   more. Plugins: .env files support, JSON Sorter, Laravel Idea, Prettier, Smart Sorter, Vue.js, Tailwind CSS. Theme:
