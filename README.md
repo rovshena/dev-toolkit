@@ -1,6 +1,6 @@
 # The tools I use
 
-This page is an answer to that question, and it lists everything I’m currently using.
+List of all the tools I use in my daily workflow.
 
 ### Development
 
