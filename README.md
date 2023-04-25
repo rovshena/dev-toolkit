@@ -4,29 +4,23 @@ List of all the tools I use in my daily workflow.
 
 ### Development
 
-- PHPStorm
-    - .env files support
-    - JSON Sorter
-    - Laravel Idea
-    - Prettier
-    - Smart Sorter
-    - Vue.js
-    - Tailwind CSS
+- **PHPStorm**
+
+  The editor actually 'gets' your code and deeply understands its structure, supporting all the PHP language features
+  for modern and legacy projects. It provides the best code completion, refactorings, on-the-fly error prevention, and
+  more. Plugins: .env files support, JSON Sorter, Laravel Idea, Prettier, Smart Sorter, Vue.js, Tailwind CSS. Theme:
+  Darcula Syntax Theme. Font: Jetbrains Mono Font, 13.0/1.2 ligatures.
 - Sublime Text
-- Darcula Syntax Theme
-- Jetbrains Mono Font
-    - size: 13.0
-    - line height: 1.2
-    - ligatures
 - Google Chrome
 - Cmder
 - Git Bash
 
 ### Team Workflow
 
+- Wrike
 - Jira
-- GitHub Projects
 - Trello
+- GitHub Projects
 
 ### Writing
 
