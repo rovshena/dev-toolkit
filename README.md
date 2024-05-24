@@ -5,7 +5,7 @@ List of all the tools I use in my daily workflow.
 ## Office Setup
 
 - **Lenovo Yoga 510-14IKB:** 14.00-inch display that has a resolution of 1366x768 pixels. It is powered by a Core i5 7th Gen processor.
-- **Delux M320BU USB Optical Mouse:** The Delux M320BU is a really handy computer mouse. It has a special sensor that makes it super good at moving around on your desk, so you can use it easily.
+- **Delux M320BU USB Optical Mouse:** The Delux M320BU is a really handy computer mouse. It has a special sensor that makes it perfect at moving around on your desk, so you can use it easily.
 
 ## Development
 
