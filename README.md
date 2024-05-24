@@ -1,26 +1,23 @@
-# The tools I use
+# Uses
 
 List of all the tools I use in my daily workflow.
 
-### Development
+## Office Setup
 
-- **PHPStorm:**
-  The editor actually 'gets' your code and deeply understands its structure, supporting all the PHP language features
-  for modern and legacy projects. It provides the best code completion, refactorings, on-the-fly error prevention, and
-  more. Plugins: .env files support, JSON Sorter, Laravel Idea, Prettier, Smart Sorter, Vue.js, Tailwind CSS. Theme:
-  Darcula Syntax Theme. Font: Jetbrains Mono Font, 13.0/1.2 ligatures.
-- Sublime Text
-- Google Chrome
-- Cmder
-- Git Bash
+- **Lenovo Yoga 510-14IKB:** 14.00-inch display that has a resolution of 1366x768 pixels. It is powered by a Core i5 7th Gen processor.
+- **Delux M320BU USB Optical Mouse:** The Delux M320BU is a really handy computer mouse. It has a special sensor that makes it super good at moving around on your desk, so you can use it easily.
 
-### Team Workflow
+## Development
 
-- Wrike
-- Jira
-- Trello
-- GitHub Projects
+- **PHPStorm:** Get straight to coding without having to install and configure lots of plugins. PhpStorm includes everything you need for PHP, JavaScript, and TypeScript development, as well as database support.
+- **Firefox:** I'd like to give Chrome another shot one day but for now using Firefox for both development and general browsing.
+- **Cmder:** Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows.
 
-### Writing
+## Team Workflow
 
-- Grammarly
+- **Gitlab Issues:** Use issues to collaborate on ideas, solve problems, and plan work. Share and discuss proposals with your team and with outside collaborators.
+- **Linear:** Cycles focus your team on what work should happen next. A healthy routine to maintain velocity and make meaningful progress.
+
+## Writing
+
+- **Grammarly:** Work with an AI writing partner that helps you find the words you need to write that tricky email, to get your point across, to keep your work moving.
