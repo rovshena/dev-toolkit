@@ -1,49 +1,68 @@
 # Dev Toolkit
 
-Welcome to **Dev Toolkit**! This repository serves as a curated collection of tools, software, and resources that I use
-in my daily development workflow. It's designed to be a guide for setting up and maintaining a productive development
-environment.
+Welcome to **Dev Toolkit**! This is my personal collection of tools, software, and resources that I use daily to get
+work done. It's here to help me set up and maintain a productive development environment.
 
 ---
 
 ## Office Setup
 
-* **Lenovo Yoga 510-14IKB** <br>
-  14.00-inch display that has a resolution of 1366x768 pixels. It is powered by a Core i5 7th Gen processor.
-* **Logitech M185** <br>
-  Comfortable, compact, and easy to use, the Wireless Mouse M185 enables you to work anywhere.
+- **Lenovo Yoga 510-14IKB**\
+  I use the Lenovo Yoga 510-14IKB, which has a 14.00-inch display with a resolution of 1366x768 pixels. It’s powered by
+  a Core i5 7th Gen processor and gives me the performance I need for coding, multitasking, and even a bit of
+  entertainment. The 2-in-1 design lets me switch between laptop and tablet modes whenever I need more flexibility.
+
+- **Logitech M185**\
+  The Logitech M185 wireless mouse is my go-to for its compact and comfortable design. It’s reliable and works perfectly
+  for long work sessions without causing any hand strain. Plus, the plug-and-play setup makes it super easy to use
+  wherever I’m working.
 
 ---
 
 ## Development
 
-* **PHPStorm** <br>
-  Get straight to coding without having to install and configure lots of plugins. PhpStorm includes everything you need
-  for PHP, JavaScript, and TypeScript development, as well as database support.
-* **Google Chrome** <br>
-  My primary browser, used as the foundation for browsing and web-based tasks.
-* **Firefox** <br>
-  My backup browser, used for secondary or testing purposes.
-* **Franz** <br>
-  It serves as a central repository for all my messages from various services.
-* **Cmder** <br>
-  Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows.
+- **PHPStorm**\
+  PHPStorm is my IDE of choice because it’s ready to go right out of the box. I don’t have to spend time installing or
+  configuring plugins, and it supports PHP, JavaScript, TypeScript, and even database management. It’s fast, smart, and
+  helps me write better code with less hassle.
+
+- **Google Chrome**\
+  Chrome is my main browser, and I love it for its speed and reliability. Its developer tools and huge library of
+  extensions make debugging and testing much easier. And since everything syncs across my devices, I can pick up right
+  where I left off.
+
+- **Firefox**\
+  Firefox is my backup browser, but it’s far from second-best. I often use it for testing or when I need to focus on
+  privacy. Its developer tools are excellent, especially for working with CSS Grid and Flexbox, and it’s a great
+  addition to my workflow.
+
+- **Franz**\
+  Franz keeps all my messaging apps in one place, which is a lifesaver. Whether it’s Slack, WhatsApp, or something else,
+  I can manage them all from one interface. It’s simple, organized, and keeps me on top of both work and personal
+  messages.
+
+- **Cmder**\
+  Cmder is my terminal emulator of choice on Windows. It’s portable, good-looking, and brings Unix commands to Windows,
+  which is a big deal for me. It’s efficient, easy to use, and makes command-line work so much better.
 
 ---
 
 ## Team Workflow
 
-* **Gitlab Issues** <br>
-  Use issues to collaborate on ideas, solve problems, and plan work. Share and discuss proposals with your team and with
-  outside collaborators.
-* **Linear** <br>
-  Cycles focus your team on what work should happen next. A healthy routine to maintain velocity and make meaningful
-  progress.
+- **GitLab Issues**\
+  GitLab Issues is the tool I use for tracking ideas, tasks, and progress. It’s a great way to collaborate with
+  teammates and stay organized. I like how easy it is to integrate discussions, milestones, and outside collaborators
+  into one workflow.
+
+- **Linear**\
+  Linear helps me keep my team focused and moving forward. The "Cycles" feature is awesome for prioritizing what we need
+  to work on next. It’s clean, fast, and helps us make meaningful progress without feeling overwhelmed.
 
 ---
 
 ## Writing
 
-* **Grammarly** <br>
-  Work with an AI writing partner that helps you find the words you need to write that tricky email, to get your point
-  across, to keep your work moving.
+- **Grammarly**\
+  Grammarly is my secret weapon for writing emails, documents, and everything in between. It catches my typos, suggests
+  better ways to phrase things, and even helps me match the tone I’m going for. It’s like having a writing coach that’s
+  always there when I need it.
